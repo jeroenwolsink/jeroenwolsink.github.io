@@ -6,4 +6,3 @@ parent: Bronnen
 
 * [Centrum voor familiegeschiedenis](https://www.cbg.nl)
 * [Nationaal Archief](https://www.nationaalarchief.nl/)
-* [Indische Genealogische Vereniging](https://)
